@@ -1,0 +1,55 @@
+.img
+{
+    height:30px;
+}
+.sec
+{
+    height: 500px;
+    background:linear-gradient(0deg, rgba(12, 12, 12, 0.3), rgb(19, 19, 19)), url(./image/banner.jpeg);
+    background-size: cover;
+}
+.div
+{
+    margin-top: 75px;
+}
+.button
+{
+    background-color: #e23845;
+    color: white;
+}
+.int
+{
+    flex: 1;
+    border: none;
+    outline: none;
+}
+.img1
+{
+    width:140px;
+}
+.img2
+{
+    width: 250px;
+}
+.img3
+{
+width: 150px;
+}
+.img4
+{
+    width: 120px;
+}
+.img5
+{
+    width: 80px;
+}
+a
+{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+ul
+{
+    list-style-type: none;
+}
